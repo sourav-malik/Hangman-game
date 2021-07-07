@@ -1,0 +1,1 @@
+Word game called "Hang-man" build using HTML, CSS, and Javascript.
